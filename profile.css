@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:  lavenderblush;
+    color: purple;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: pink;
+    color:white;
+    text-align: center;
+    padding: 15px;
+}
+section {
+    padding:15px
+}
+footer{
+    background-color:pink;
+    color:white;
+    text-align: center;
+    padding:10px
+}
+ul{
+    padding-left:30px
+}
+a{
+    color:hotpink;
+}
